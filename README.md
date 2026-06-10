@@ -29,6 +29,7 @@ I'm a passionate hardware engineer specializing in **FPGA design, RTL developmen
 <td><strong>🔌 Hardware Design & VLSI</strong></td>
 <td><strong>💻 Embedded Systems</strong></td>
 <td><strong>⚙️ Tools & Software</strong></td>
+ <td><strong>👩🏻‍💻Programming </strong></td>
 </tr>
 <tr>
 <td>
@@ -60,6 +61,17 @@ I'm a passionate hardware engineer specializing in **FPGA design, RTL developmen
 • Eagle PCB  
 • NI Multisim  
 • Git/GitHub  
+
+</td>
+<td>
+  
+• HTML  
+• CSS  
+• Java Script
+• Python  
+• SQL 
+• React 
+
 
 </td>
 </tr>
